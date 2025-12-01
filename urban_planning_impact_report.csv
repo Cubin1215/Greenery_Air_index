@@ -1,0 +1,223 @@
+City_Name,PM2_5_Mean,Greenness_Public_Share,Projected_PM25_Drop,Deviation_Analysis,Vegetation_Recommendation,Policy_Priority
+delhi,114.5,24.3,5.6567555812350605,"CRITICAL: Pollution much higher than predicted. CHECK EXTERNAL FACTORS: Local festivals (fireworks), agricultural burning, or geography (valley effect).","High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Implement Low Emission Zones (Traffic is major source)
+khulna,61.236,23.8,3.025302050414936,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Implement Low Emission Zones (Traffic is major source)
+bhopal,61.0,21.7,3.013642711400337,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Maintain current standards
+chandigarh,60.0,17.3,2.964238732524919,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+sylhet,59.77,26.8,2.9528758173835783,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Maintain current standards
+singrauli,56.667,13.9,2.799575270933161,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+chittagong,56.362,15.1,2.7845070573761603,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+kolkata,52.2,13.9,2.578887697296679,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+baghdad,48.5,18.4,2.3960929754576483,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+dubai,45.759,12.9,2.26067666936013,"CRITICAL: Pollution much higher than predicted. CHECK EXTERNAL FACTORS: Local festivals (fireworks), agricultural burning, or geography (valley effect).","High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+mumbai,43.439,17.6,2.1460594383691713,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+kanpur,40.0,16.0,1.9761591550166173,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+doha,38.0,14.0,1.8773511972657815,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+capital governorate,37.5,16.3,1.8526492078280796,"CRITICAL: Pollution much higher than predicted. CHECK EXTERNAL FACTORS: Local festivals (fireworks), agricultural burning, or geography (valley effect).","High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+surat,36.667,18.7,1.8114956934248525,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+johannesburg,35.466,14.8,1.7521615147954819,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+indore,33.333,16.1,1.6467828278542207,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+erzurum,32.738,6.9,1.6173874604233482,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",URGENT: Micro-parks & Green Roofs required (Greenness < 10%); Implement Low Emission Zones (Traffic is major source)
+antalya,32.531,12.6,1.6071608367961367,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm) + Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+islamabad,32.294,20.3,1.5954520938026633,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Maintain current standards
+chiang rai,32.0,11.8,1.5809273240132917,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+anantapur,31.0,12.8,1.5315233451378774,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+jabalpur,31.0,17.3,1.5315233451378774,Expected performance consistent with model.,"High PM-Trapping Species (Broadleaf/Hairy/Waxy leaves like Plane, Linden, Elm)",Improve street tree connectivity
+belgaum,30.0,13.0,1.4821193662624594,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+kuala lumpur,28.271,19.8,1.3966998867868696,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+tehran,28.153,23.4,1.39087021727957,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Implement Low Emission Zones (Traffic is major source)
+skopje,27.594,13.7,1.3632533930882111,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+bareilly,27.0,12.4,1.3339074296362163,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+nellore,27.0,15.4,1.3339074296362163,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+chiang mai,26.5,19.0,1.3092054401985074,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+rajkot,26.5,21.2,1.3092054401985074,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+kayseri,25.558,13.0,1.2626668920978652,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+seoul,25.397,15.7,1.2547128514989225,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+aguascalientes,25.0,7.0,1.235099471885384,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",URGENT: Micro-parks & Green Roofs required (Greenness < 10%); Implement Low Emission Zones (Traffic is major source)
+kurnool,24.5,21.7,1.210397482447675,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+chennai,24.429,23.4,1.2068897999475219,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+thessaloniki,24.163,16.2,1.1937483415666605,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+bene beraq,23.8,15.5,1.1758146972348875,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+bangkok,23.417,14.9,1.1568929733256006,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+gwangju,22.922,19.0,1.1324380037822728,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+daegu,22.851,23.1,1.128930321282116,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+omza,22.412,8.4,1.1072419745558086,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),URGENT: Micro-parks & Green Roofs required (Greenness < 10%)
+craiova,22.205,16.6,1.0970153509285971,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ndola,22.057,12.2,1.0897035620550355,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+vijayawada,22.0,25.0,1.0868875352591374,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+katowice,21.745,53.1,1.0742895206459089,"CRITICAL: Pollution much higher than predicted. CHECK EXTERNAL FACTORS: Local festivals (fireworks), agricultural burning, or geography (valley effect).",Native Ornamental Species (Focus on biodiversity),Implement Low Emission Zones (Traffic is major source)
+irbid,21.7,19.6,1.0720663415965141,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+istanbul,21.392,20.6,1.056849916102884,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Implement Low Emission Zones (Traffic is major source)
+sivas,21.224,9.2,1.0485500476518155,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",URGENT: Micro-parks & Green Roofs required (Greenness < 10%); Implement Low Emission Zones (Traffic is major source)
+busan,21.024,14.8,1.0386692518767333,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+coimbatore,21.0,14.8,1.037483556383723,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+eskisehir,20.952,14.5,1.0351121653977025,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+visalia,20.7,16.6,1.0226623627210998,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ostrava,20.67,12.7,1.0211802433548343,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+talca,20.55,13.1,1.0152517658897864,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ankara,19.683,13.2,0.9724185162048009,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+jeju,19.114,12.6,0.9443076522246905,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+puebla,18.667,4.9,0.9222240736673797,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",URGENT: Micro-parks & Green Roofs required (Greenness < 10%); Implement Low Emission Zones (Traffic is major source)
+quito,18.316,21.4,0.9048832770821065,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+kefar sava,18.1,16.7,0.8942120176450175,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ramat gan,17.9,17.9,0.8843312218699353,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+modena,17.635,20.4,0.8712391674679516,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Implement Low Emission Zones (Traffic is major source)
+hadera,17.5,14.4,0.8645696303197674,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ploiesti,17.275,11.4,0.8534537350728009,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+rzeszow,17.107,10.4,0.8451538666217289,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+samsun,17.078,14.0,0.8437211512343445,Expected performance consistent with model.,"Traffic-Tolerant Species (Hardy trees like Gleditsia, Maple, Ash)",Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+songkhla,17.0,12.7,0.839867640882062,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+lublin,16.907,21.3,0.8352730708466467,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+sao paulo,16.673,18.8,0.8237125397898009,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+kielce,16.666,34.2,0.8233667119376733,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+opole,16.439,11.2,0.8121520087329532,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+poznan,16.138,26.2,0.7972814110914541,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+zagreb,16.104,19.9,0.7956016758096887,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+gan yavne,15.9,17.9,0.7855232641191048,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+brno,15.838,15.5,0.7824602174288291,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ashdod,15.8,17.2,0.7805828662315637,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+szeged,15.787,15.4,0.7799406145061827,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+ljubljana,15.718,20.7,0.7765317399637794,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+bogota,15.587,38.4,0.7700598187310987,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+balikesir,15.29,13.3,0.7553868370051013,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+santos,15.0,18.7,0.7410596831312297,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+bologna,14.993,20.9,0.7407138552791022,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+parma,14.928,21.7,0.7375025966522006,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+torun,14.862,36.2,0.7342419340464232,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+cape town,14.855,22.2,0.7338961061942957,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+budapest,14.458,19.5,0.7142827265807554,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+holon,14.3,14.4,0.7064768979184404,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+okayama,14.3,17.6,0.7064768979184404,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+olsztyn,13.974,32.3,0.6903712008050551,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+gorzow wielkopolski,13.963,16.6,0.689827757037424,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+canberra,13.9,21.9,0.6867153063682743,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+modesto,13.9,20.7,0.6867153063682743,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+porto,13.497,18.0,0.6668055028814805,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+granada,13.452,16.4,0.6645823238320876,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+port of spain,13.4,11.3,0.6620133169305653,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+kaunas,13.36,17.8,0.6600371577755499,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+bratislava,13.264,26.1,0.6552943758035088,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+palermo,13.198,16.2,0.6520337131977314,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+berlin,13.069,19.7,0.6456605999228042,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+minsk,13.0,19.5,0.6422517253803992,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+paris,12.885,16.1,0.6365702678097271,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+bydgoszcz,12.877,43.3,0.6361750359787237,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+szczecin,12.869,28.5,0.6357798041477203,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+braila,12.737,15.4,0.6292584789361655,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+lille,12.685,17.7,0.6266894720346432,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+gdansk,12.489,27.3,0.6170062921750628,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+linz,12.261,14.4,0.6057421849914686,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+cordoba,12.25,16.0,0.6051987412238375,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+osaka,12.22,18.4,0.6037166218575756,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity; Implement Low Emission Zones (Traffic is major source)
+muswellbrook,12.2,22.8,0.602728542280067,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+singapore,12.0,19.1,0.5928477465049848,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+bahia blanca,11.9,19.1,0.5879073486174438,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+toledo,11.713,18.1,0.5786688045677408,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+rio de janeiro,11.45,12.6,0.5656755581235053,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+lyon,11.388,18.1,0.5626125114332297,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+sydney,11.273,13.5,0.5569310538625576,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+antwerpen,11.157,22.1,0.5512001923130097,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+magdeburg,11.02,16.0,0.5444318472070773,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+torrelavega,11.0,21.5,0.5434437676295687,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+strasbourg,10.881,16.9,0.5375646941433949,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+basel,10.867,16.2,0.536873038439138,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+sevilla,10.844,22.6,0.5357367469250036,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+tokyo,10.828,23.1,0.5349462832629968,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+reims,10.785,17.0,0.5328219121713555,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+grenoble,10.573,23.2,0.5223482686497665,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+marseille,10.534,16.0,0.5204215134736252,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+central coast,10.5,17.9,0.5187417781918615,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+madrid,10.471,22.6,0.5173090628044736,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+hamburg,10.377,18.6,0.512665088790186,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+toulouse,10.237,16.0,0.5057485317476278,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+zielona gora,10.231,58.2,0.5054521078743743,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+varna,10.186,17.6,0.5032289288249814,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+nantes,10.156,17.5,0.5017468094587176,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+alcala de henares,10.147,18.2,0.5013021736488401,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+zurich,10.125,22.0,0.5002152861135798,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+bilbao,10.051,21.7,0.49655939167680074,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+jaen,9.869,12.5,0.48756786752147363,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+rennes,9.822,17.9,0.48524588051432893,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+tours,9.797,14.9,0.48401078104244455,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+palmerston,9.75,18.5,0.48168879403529985,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+angers,9.741,14.3,0.48124415822542055,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+le mans,9.698,19.1,0.47911978713377756,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+detroit,9.629,20.6,0.4757109125913743,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+chicago,9.517,17.2,0.4701776669573281,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+san diego,9.467,15.8,0.46770746801355756,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+cartagena,9.458,23.7,0.46726283220367826,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+metz,9.446,20.3,0.4666699844571731,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+philadelphia,9.286,22.1,0.4587653478371063,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+bern,9.2,25.8,0.4545166056538221,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+cleveland,9.157,20.0,0.45239223456217914,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+zaragoza,9.1,28.2,0.44957620776627927,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+darwin,9.1,18.4,0.44957620776627927,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+dallas,9.04,20.4,0.44661196903375533,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+besancon,8.991,13.0,0.4441911740688589,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+alicante,8.944,14.1,0.44186918706171596,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+karlsruhe,8.91,15.9,0.4401894517799505,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+malmo,8.843,21.8,0.43687938519529723,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+wollongong,8.8,19.2,0.434755014103656,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+leon,8.772,15.8,0.433371702695144,POSITIVE: Pollution lower than predicted. Favorable meteorology or effective local regulations.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+sheffield,8.762,17.1,0.43287766290638885,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+salt lake city,8.7,26.2,0.42981461621611317,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+lausanne,8.65,19.9,0.4273444172723426,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+shizuoka,8.575,20.6,0.4236391188566859,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+oslo,8.536,32.4,0.42171236368054643,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+cuenca,8.5,20.2,0.419933820441031,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+carlisle,8.395,21.9,0.41474640265911233,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+norwich,8.288,17.4,0.4094601769194428,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+manchester,8.242,22.2,0.4071875938911731,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+niigata,8.15,14.0,0.40264242783463544,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+stavanger,8.108,27.2,0.40056746072186744,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+memphis,8.1,19.5,0.400172228890864,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+nimes,8.011,19.0,0.3957752747709522,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+hartford,8.0,14.8,0.39523183100332293,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+kingston,8.0,17.1,0.39523183100332293,POSITIVE: Pollution lower than predicted. Favorable meteorology or effective local regulations.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+toulon,7.917,13.4,0.3911313007566637,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+dublin,7.858,23.0,0.38821646600301385,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+plovdiv,7.8,15.4,0.3853510352282399,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+hamilton,7.667,18.6,0.3787803060378092,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+new york,7.654,19.5,0.3781380543124291,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+dijon,7.624,15.1,0.3766559349461671,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+aalborg,7.548,20.3,0.37290123255163543,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+victoria,7.5,11.3,0.37052984156561486,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+victoria,7.5,21.9,0.37052984156561486,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+brisbane,7.5,19.5,0.37052984156561486,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+leicester,7.484,17.4,0.3697393779036089,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+cardiff,7.447,18.9,0.3679114306852185,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+perth,7.413,25.9,0.3662316954034539,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+san francisco,7.383,17.3,0.36474957603719194,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+preston,7.36,16.5,0.3636132845230575,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+toronto,7.333,21.2,0.3622793770934205,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+new orleans,7.3,22.9,0.3606490457905318,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+virginia beach,7.167,18.0,0.354078316600102,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+melbourne,7.1,20.4,0.35076825001544876,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+roanoke,7.1,16.3,0.35076825001544876,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+montreal,7.0,20.0,0.3458278521279077,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+london,7.0,23.9,0.3458278521279077,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+recife,6.961,19.4,0.3439010969517664,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+liege,6.931,13.6,0.34241897758550355,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+brest,6.925,11.8,0.342122553712251,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+providence,6.84,24.5,0.3379232155078409,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+sapporo,6.75,19.1,0.3334768574090541,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+oxford,6.722,19.3,0.3320935460005421,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+calgary,6.667,27.3,0.32937632716239396,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+boston,6.417,19.8,0.31702533244354036,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+edmonton,6.4,20.2,0.3161854648026585,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+okinawa,6.3,17.0,0.31124506691511655,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+adelaide,6.14,20.2,0.30334043029505064,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+portland,6.1,16.1,0.3013642711400335,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+sioux falls,6.0,23.9,0.2964238732524924,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+sofia,5.81,20.5,0.28703711726616365,POSITIVE: Pollution lower than predicted. Favorable meteorology or effective local regulations.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+winnipeg,5.5,20.3,0.27172188381478435,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+auckland,5.5,20.7,0.27172188381478435,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+trondheim,5.336,30.0,0.2636196312792167,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+reykjavik,5.26,27.9,0.25986492888468504,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+tartu,5.253,74.9,0.2595191010325566,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+stockholm,5.157,21.6,0.25477631906051723,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+salinas,5.0,17.6,0.24701989437707716,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+mary,5.0,12.5,0.24701989437707716,POSITIVE: Pollution lower than predicted. Favorable meteorology or effective local regulations.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+wellington,5.0,21.0,0.24701989437707716,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+jyvaskyla,4.759,17.3,0.235113535468102,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
+tallinn,3.857,59.7,0.19055114652247696,Expected performance consistent with model.,Native Ornamental Species (Focus on biodiversity),Maintain current standards
+honolulu,3.1,16.4,0.15315233451378774,POSITIVE: Pollution lower than predicted. Favorable meteorology or effective local regulations.,Native Ornamental Species (Focus on biodiversity),Improve street tree connectivity
