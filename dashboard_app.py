@@ -127,7 +127,7 @@ if df is not None:
             city_data = city_subset.iloc[0]
             
             st.markdown("---")
-            st.subheader("🌱 Plan Intervention")
+            st.subheader("🌱 Action Plan")
             added_greenery = st.slider("Add Green Space (%)", 0, 25, 5, help="Simulate increasing the % of public open space.")
         else:
             st.error("City data not found.")
